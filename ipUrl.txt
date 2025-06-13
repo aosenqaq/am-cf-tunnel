@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/aosenqaq/am-cf-tunnel/refs/heads/main/ipUS.txt
+https://raw.githubusercontent.com/aosenqaq/am-cf-tunnel/refs/heads/main/ipUS.txt@47.74.157.194
